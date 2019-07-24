@@ -2,6 +2,8 @@
 
 Forked from https://github.com/jayphelps/git-blame-someone-else
 
+Blames Dom for your bad code
+
 ## Install
 
 ```bash
